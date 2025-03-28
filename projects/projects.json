@@ -1,0 +1,68 @@
+[
+  {
+    "name": "Smart Healthcare System",
+    "desc": "Developed a mobile application titled 'Smart Healthcare System' for a Proof of Concept hosted by the college. Awarded 3rd prize for my contribution, along with a cash prize.",
+    "image": "Blood", 
+    "category": "android",  
+    "links": {
+      "view": "https://www.linkedin.com/in/nisanth-g-868044229?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+      "code": "https://github.com/nisanthg1010/Ruby_Donar_hub"
+    }
+  
+  },
+  {
+    "name": "Supermarket MERN",
+    "desc": "Full-Stack Supermarket application built using MERN stack, leveraging external APIs for ingredients and Clerk authentication, with data stored in MongoDB.",
+    "image": "supermarketmern", 
+    "category": "mern",
+    "links": {
+      "view": "https://www.linkedin.com/in/nisanth-g-868044229?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app", 
+      "code": "https://github.com/nisanthg1010/Supermarket_MERN"
+    }
+  },
+  {
+    "name": "FarmerConnect MERN",
+    "desc": "Full-Stack Farmer Management application built with the MERN stack, providing tools for crop planning, resource tracking, and market analysis to improve farming efficiency and profitability.",
+    "image": "Farmer",
+    "category": "mern",
+    "links": {
+      "view": "https://www.linkedin.com/in/nisanth-g-868044229?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app", 
+      "code": "https://github.com/nisanthg1010/Farmerconnect"
+    }
+  },
+  
+
+{
+    "name": "IoT-based Agricultural Monitoring & Alert System",
+    "desc": "Real-time tracking of key agricultural parameters, optimizing resource usage, and boosting crop yields. Built with IoT sensors and data analysis techniques.",
+    "image": "Agri", 
+    "category": "iot", 
+    "links": {
+        "view": "https://www.linkedin.com/in/nisanth-g-868044229?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+        "code": "https://github.com/nisanthg1010/IOT_AGRICULTURE"
+    }  
+},
+ 
+{
+  "name": "Digital Platform for Agro Center",
+  "desc": "A digital platform for agro centers offering pesticides, fertilizers, animal feeds, and vegetable seeds.",
+  "image": "Agro_", 
+  "category": "fullstack", 
+  "links": {
+      "view": "https://www.linkedin.com/in/nisanth-g-868044229?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+      "code": "https://github.com/nisanthg1010/Digital_platform_agro_center"
+  }
+
+  },
+  {
+    "name": "Survey of Land Using Augmented Reality",
+    "desc": "An application that allows surveyors to interact with spatial data in real-time using augmented reality for land surveying.",
+    "image": "Land", 
+    "category": "ar", 
+    "links": {
+        "view": "https://www.linkedin.com/in/nisanth-g-868044229?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+        "code": "https://github.com/nisanthg1010/Survey_land-_AR"
+    }
+}
+  
+]
